@@ -15,7 +15,7 @@ class thisex
 		}
 		public static void main(String args[])
 		{
-			thisex s1=new thisex(7125,"nnn");
+			thisex s1=new thisex(1234,"xyz");
 			
 		}
 	}
